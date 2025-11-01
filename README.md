@@ -30,8 +30,7 @@ O projeto demonstra como as ferramentas generativas já conseguem **simular emo�
 ---
 ## 🎥 Prévia do Vídeo
 
-<video src="./IA-e-Autenticidade.mp4" controls width="600"></video>
-🎬 Caso o vídeo não carregue acima, você pode [clicar aqui para assistir](./IA-e-Autenticidade.mp4).
+🎬 [Clique aqui para assistir ao vídeo](./IA-e-Autenticidade.mp4)
 
 
 ## 💭 Reflexão
