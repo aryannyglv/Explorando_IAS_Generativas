@@ -29,8 +29,17 @@ O projeto demonstra como as ferramentas generativas já conseguem **simular emo�
 
 ---
 ## 🎥 Prévia do Vídeo
+O vídeo do projeto está incluído no repositório como arquivo `.mp4`.  
 
-🎬 [Clique aqui para assistir ao vídeo](./IA-e-Autenticidade.mp4)
+Para acessá-lo, siga estas instruções:
+
+1. Acesse a pasta do repositório no GitHub.  
+2. Localize o arquivo chamado: IA e Autenticidade.mp4
+3. Clique no arquivo.  
+4. Na página que abrir, clique no botão **"Download"** (ou no link **"Download"** que aparece no canto superior direito) para baixar o vídeo para o seu computador.  
+5. Após o download, você poderá abrir o vídeo usando qualquer reprodutor de mídia (VLC, Windows Media Player, etc.).
+
+> ⚠️ Observação: O vídeo não pode ser reproduzido diretamente no README devido às limitações do GitHub. É necessário baixar o arquivo para assistir.
 
 
 ## 💭 Reflexão
